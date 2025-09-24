@@ -7,6 +7,8 @@
 
 An interactive car catalogue built with Next.js App Router. Search and filter by manufacturer, model, year, and fuel type; browse responsive cards with on-demand images, and load more results seamlessly.
 
+![preview](./image.jpg)
+
 ### Demo
 
 - Local dev runs at `http://localhost:3000`
